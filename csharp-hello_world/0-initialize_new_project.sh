@@ -2,4 +2,4 @@
 
 # initialiaze a c# proyect and create a directory 
 
-dotnet new console -o 0-new_project
+dotnet new console -n 0-new_project
