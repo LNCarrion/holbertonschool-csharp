@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/0-new_proyect/0-new_proyect.csproj",
-      "projectName": "0-new_proyect",
-      "projectPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/0-new_proyect/0-new_proyect.csproj",
+      "projectUniqueName": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
+      "projectName": "0-new_project",
+      "projectPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
       "packagesPath": "/home/lncarrion_/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/0-new_proyect/obj/",
+      "outputPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/0-new_project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lncarrion_/.nuget/NuGet/NuGet.Config"

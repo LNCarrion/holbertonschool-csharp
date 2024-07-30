@@ -1,13 +1,5 @@
 #!/bin/usr/env bash
 
-#create a new directory
+# initialiaze a c# proyect and create a directory 
 
-mkdir 0-new_proyect
-
-#navigating in the directory
-
-cd 0-new_proyect
-
-# initialize C# proyect
-
-dotnet new console
+dotnet new console -o 0-new_project
