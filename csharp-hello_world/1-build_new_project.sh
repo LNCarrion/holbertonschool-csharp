@@ -5,4 +5,3 @@ if [ ! -d "1-new_project" ]; then
 fi
 cd 1-new_project
 dotnet build 1-new_project
-
