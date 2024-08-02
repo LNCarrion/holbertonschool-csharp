@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 
-
-mkdir -p 1-new_project && cd 1-new_project && dotnet new console && dotnet build 1-new_proyect
+if [ ! -d "1-new_project" ]; then
+    dotnet new console -n 1-new_project
+fi
+cd 1-new_project
+dotnet build 1-new_project
