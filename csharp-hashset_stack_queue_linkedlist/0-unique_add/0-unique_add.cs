@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 public class List
 {
+    // Method to sum unique integers in the list
     public static int Sum(List<int> myList)
     {
         HashSet<int> uniqueNumbers = new HashSet<int>(myList);
