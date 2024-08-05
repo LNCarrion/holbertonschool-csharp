@@ -17,7 +17,7 @@ public class MyStack
         }
 
         bool containsSearch = aStack.Contains(search);
-        Console.WriteLine($"stack contains {search}: {containsSearch}");
+        Console.WriteLine($"Stack contains {search}: {containsSearch}");
 
         if (containsSearch)
         {
