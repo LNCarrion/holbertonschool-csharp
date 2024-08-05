@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/lncarrion/.nuget/packages/": {}
+    "C:\\Users\\17879\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
+      "projectUniqueName": "C:\\Users\\17879\\source\\repos\\LNCarrion\\holbertonschool-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
       "projectName": "1-new_project",
-      "projectPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
-      "packagesPath": "/home/lncarrion/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hello_world/1-new_project/obj/",
+      "projectPath": "C:\\Users\\17879\\source\\repos\\LNCarrion\\holbertonschool-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
+      "packagesPath": "C:\\Users\\17879\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\17879\\source\\repos\\LNCarrion\\holbertonschool-csharp\\csharp-hello_world\\1-new_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/lncarrion/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\17879\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

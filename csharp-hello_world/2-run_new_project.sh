@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-!/usr/bin/env bash
-
 # Check if the directory 2-new_project exists
 if [ ! -d "2-new_project" ]; then
     # Create a new console project named 2-new_project
