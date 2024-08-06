@@ -25,22 +25,19 @@ public class MyStack
 
             while (aStack.Count > 0)
             {
-                string item = aStack.Pop();
+            string item = aStack.Pop();
 
-                if (item == search)
-                {
-                    break;
-                }
-            }
-
-            while (tempStack.Count > 1)
+            if (item == search)
             {
-                aStack.Push(tempStack.Pop());
+                aStack.Push(newItem);
+                break;
             }
+
+            tempStack.Push(item);
+            }
+
         }
-        aStack.Push(newItem);
 
         return aStack;
     }
-
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-stack_push_pop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09959dc66b48d0ab18d2b17360baaf0c82104c10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88a89a93e1b816ca1d557dc72ee9eb116b00aff5")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-stack_push_pop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-stack_push_pop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
