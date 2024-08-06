@@ -33,7 +33,6 @@ public class MyStack
                 break;
             }
 
-            tempStack.Push(item);
             }
 
         }
