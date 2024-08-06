@@ -17,7 +17,7 @@ public class MyStack
         }
 
         bool containsSearch = aStack.Contains(search);
-        Console.WriteLine($"Stack contains {search}: {containsSearch}");
+        Console.WriteLine($"Stack contains \"{search}\": {containsSearch}");
 
         if (containsSearch)
         {
@@ -26,7 +26,6 @@ public class MyStack
             while (aStack.Count > 0)
             {
                 string item = aStack.Pop();
-                tempStack.Push(item);
 
                 if (item == search)
                 {
