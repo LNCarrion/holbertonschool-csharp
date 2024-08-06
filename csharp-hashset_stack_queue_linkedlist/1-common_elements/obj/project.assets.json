@@ -923,24 +923,27 @@
     ]
   },
   "packageFolders": {
-    "/home/lncarrion/.nuget/packages/": {}
+    "C:\\Users\\17879\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
+      "projectUniqueName": "C:\\Users\\17879\\source\\repos\\LNCarrion\\holbertonschool-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
       "projectName": "1-common_elements",
-      "projectPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
-      "packagesPath": "/home/lncarrion/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/",
+      "projectPath": "C:\\Users\\17879\\source\\repos\\LNCarrion\\holbertonschool-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
+      "packagesPath": "C:\\Users\\17879\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\17879\\source\\repos\\LNCarrion\\holbertonschool-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/lncarrion/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\17879\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -953,6 +956,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -977,7 +985,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   },
