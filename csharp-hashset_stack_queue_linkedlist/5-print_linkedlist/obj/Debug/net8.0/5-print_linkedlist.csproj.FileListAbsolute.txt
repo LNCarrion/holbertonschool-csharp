@@ -1,0 +1,15 @@
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net8.0/5-print_linkedlist
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net8.0/5-print_linkedlist.deps.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net8.0/5-print_linkedlist.runtimeconfig.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net8.0/5-print_linkedlist.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net8.0/5-print_linkedlist.pdb
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.AssemblyInfoInputs.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.AssemblyInfo.cs
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.csproj.CoreCompileInputs.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.sourcelink.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/refint/5-print_linkedlist.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.pdb
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/5-print_linkedlist.genruntimeconfig.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net8.0/ref/5-print_linkedlist.dll
