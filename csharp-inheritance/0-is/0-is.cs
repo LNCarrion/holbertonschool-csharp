@@ -1,16 +1,17 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 
-public class Obj
+/// <summary>
+/// The Obj class.
+/// </summary>
+class Obj
 {
     /// <summary>
-    /// Determines whether the specified object is of type int.
+    /// Determines if the object is an integer.
     /// </summary>
     /// <param name="obj">The object to check.</param>
-    /// <returns>
-    ///   <c>true</c> if the specified object is of type int; otherwise, <c>false</c>.
-    /// </returns>
-    public bool IsInt(object obj)
+    /// <returns>True if the object is an integer, false otherwise.</returns>
+    public static bool IsOfTypeInt(object obj)
     {
         return obj is int;
     }
