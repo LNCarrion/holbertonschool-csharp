@@ -1,0 +1,15 @@
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net8.0/2-subclass
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net8.0/2-subclass.deps.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net8.0/2-subclass.runtimeconfig.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net8.0/2-subclass.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/net8.0/2-subclass.pdb
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.AssemblyInfoInputs.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.AssemblyInfo.cs
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.csproj.CoreCompileInputs.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.sourcelink.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/refint/2-subclass.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.pdb
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/2-subclass.genruntimeconfig.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/net8.0/ref/2-subclass.dll
