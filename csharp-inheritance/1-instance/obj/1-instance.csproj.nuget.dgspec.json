@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/1-instance/1-instance.csproj": {}
+  },
+  "projects": {
+    "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/1-instance/1-instance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/1-instance/1-instance.csproj",
+        "projectName": "1-instance",
+        "projectPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/1-instance/1-instance.csproj",
+        "packagesPath": "/home/lncarrion/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/1-instance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lncarrion/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-instance</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>
+            The Obj class.
+            </summary>
+        </member>
+        <member name="M:Obj.IsInstanceOfArray(System.Object)">
+            <summary>
+            Checks if the given object is an instance of the Array class or 
+            a class that inherits from Array.
+            </summary>
+            <param name="obj">The object to check.</param>
+            <returns>True if the object is an instance of Array or inherits from Array, otherwise False.</returns>
+        </member>
+    </members>
+</doc>
