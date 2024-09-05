@@ -1,30 +1,24 @@
-﻿using System;
+﻿﻿using System;
 using System.Reflection;
-
-public class Obj
+class Obj
 {
-    /// <summary>
-    /// Prints the names of the available properties and methods of an object.
-    /// </summary>
-    /// <param name="myObj">The object whose properties and methods are to be printed.</param>
     public static void Print(object myObj)
     {
-        Type objType = myObj.GetType();
+        Type type = myObj.GetType();
+        PropertyInfo[] properties = type.GetProperties();
+        Type types = myObj.GetType();
+        MethodInfo[] methods = type.GetMethods();
 
-        Console.WriteLine($"{objType.Name} Properties:");
-
-        PropertyInfo[] properties = objType.GetProperties();
-        foreach (var property in properties)
+        Console.WriteLine($"{types.Name} Properties:");
+        foreach (var item in properties)
         {
-            Console.WriteLine(property.Name);
+            Console.WriteLine(item.Name);
         }
 
-        Console.WriteLine($"{objType.Name} Methods:");
-
-        MethodInfo[] methods = objType.GetMethods();
-        foreach (var method in methods)
+        Console.WriteLine($"{types.Name} Methods:");
+        foreach (var item in methods)
         {
-            Console.WriteLine(method.Name);
+            Console.WriteLine(item.Name);
         }
     }
 }
