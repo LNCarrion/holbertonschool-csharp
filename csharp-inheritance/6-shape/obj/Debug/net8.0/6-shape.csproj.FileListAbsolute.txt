@@ -1,0 +1,15 @@
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.AssemblyInfoInputs.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.AssemblyInfo.cs
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.csproj.CoreCompileInputs.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.sourcelink.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net8.0/6-shape
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net8.0/6-shape.deps.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net8.0/6-shape.runtimeconfig.json
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net8.0/6-shape.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/bin/Debug/net8.0/6-shape.pdb
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/refint/6-shape.dll
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.pdb
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/6-shape.genruntimeconfig.cache
+/mnt/c/Users/17879/source/repos/LNCarrion/holbertonschool-csharp/csharp-inheritance/6-shape/obj/Debug/net8.0/ref/6-shape.dll
